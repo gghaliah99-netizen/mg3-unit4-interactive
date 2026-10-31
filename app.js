@@ -39,3 +39,14 @@ $('submit').addEventListener('click',async()=>{
  }catch(e){$('feedback').textContent='Could not confirm delivery. Your answers are saved here. Please contact your teacher before retrying.';$('submit').disabled=false;}
 });
 fetch('questions.json').then(r=>{if(!r.ok)throw Error('Question file not found');return r.json()}).then(data=>{sections=data;}).catch(()=>{$('welcome').insertAdjacentHTML('beforeend','<p class="wrong">Unable to load questions. Please refresh the page.</p>');$('start').disabled=true;});
+
+window.fillTestAnswers = function () {
+  all().forEach(q => {
+    answers[q.id] = q.type === "choice"
+      ? (q.answer || q.options[0])
+      : "Test answer";
+  });
+  save();
+  render();
+  alert("Test answers filled successfully!");
+};
