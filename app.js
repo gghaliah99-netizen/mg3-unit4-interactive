@@ -1,7 +1,7 @@
 "use strict";
 // IMPORTANT: Do not put the old MG2 Apps Script URL here. First update the
 // Google Apps Script to route MG3 submissions to the "MG3 Results" sheet.
-const RESULTS_ENDPOINT = "";
+const RESULTS_ENDPOINT = const RESULTS_ENDPOINT = "https://script.google.com/macros/s/AKfycbynO3wtmlayKCQ8InCXHU4ZZo9zMXO_U0oyJB63DxxboajAGX7pM-ysDHesPOlSCbF9/exec";
 const CLASS_NAME = "3-4";
 const STORAGE_PREFIX = "mg3u4_v1_";
 let sections=[],student="",current=0,answers={},submitted=false;
