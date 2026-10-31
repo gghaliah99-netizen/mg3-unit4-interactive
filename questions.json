@@ -1,0 +1,554 @@
+[
+  {
+    "title": "Listen & Discuss · Match the Pictures",
+    "questions": [
+      {
+        "id": "L1",
+        "type": "choice",
+        "prompt": "Picture 1: 🕵️ Person holding a magnifying glass",
+        "options": [
+          "comedy",
+          "capture",
+          "animated",
+          "detective",
+          "horror"
+        ],
+        "answer": "detective"
+      },
+      {
+        "id": "L2",
+        "type": "choice",
+        "prompt": "Picture 2: 💀 Scary character",
+        "options": [
+          "comedy",
+          "capture",
+          "animated",
+          "detective",
+          "horror"
+        ],
+        "answer": "horror"
+      },
+      {
+        "id": "L3",
+        "type": "choice",
+        "prompt": "Picture 3: 🎭 Laughing and smiling theater masks",
+        "options": [
+          "comedy",
+          "capture",
+          "animated",
+          "detective",
+          "horror"
+        ],
+        "answer": "comedy"
+      },
+      {
+        "id": "L4",
+        "type": "choice",
+        "prompt": "Picture 4: 🎥 Cameraman recording a scene",
+        "options": [
+          "comedy",
+          "capture",
+          "animated",
+          "detective",
+          "horror"
+        ],
+        "answer": "capture"
+      },
+      {
+        "id": "L5",
+        "type": "choice",
+        "prompt": "Picture 5: 🎨 Colorful cartoon characters",
+        "options": [
+          "comedy",
+          "capture",
+          "animated",
+          "detective",
+          "horror"
+        ],
+        "answer": "animated"
+      }
+    ]
+  },
+  {
+    "title": "Listen & Discuss · Choose",
+    "questions": [
+      {
+        "id": "L6",
+        "type": "choice",
+        "prompt": "The Lion King is an example of ................ film.",
+        "options": [
+          "comedy",
+          "animated",
+          "action",
+          "documentary"
+        ],
+        "answer": "animated"
+      },
+      {
+        "id": "L7",
+        "type": "choice",
+        "prompt": "A cameraman’s job is to ................ the scenes on film.",
+        "options": [
+          "watch",
+          "capture",
+          "edit",
+          "clean"
+        ],
+        "answer": "capture"
+      },
+      {
+        "id": "L8",
+        "type": "choice",
+        "prompt": "The ................ ending of the film surprised us.",
+        "options": [
+          "abrupt",
+          "crucial",
+          "important",
+          "death"
+        ],
+        "answer": "abrupt"
+      }
+    ]
+  },
+  {
+    "title": "Listen & Discuss · Classify the Movies",
+    "questions": [
+      {
+        "id": "L9",
+        "type": "choice",
+        "prompt": "Jurassic World",
+        "options": [
+          "animated",
+          "Action adventure",
+          "documentary",
+          "biography",
+          "comedy",
+          "Science fiction"
+        ],
+        "answer": "Science fiction"
+      },
+      {
+        "id": "L10",
+        "type": "choice",
+        "prompt": "Lion King",
+        "options": [
+          "animated",
+          "Action adventure",
+          "documentary",
+          "biography",
+          "comedy",
+          "Science fiction"
+        ],
+        "answer": "animated"
+      },
+      {
+        "id": "L11",
+        "type": "choice",
+        "prompt": "Sonic",
+        "options": [
+          "animated",
+          "Action adventure",
+          "documentary",
+          "biography",
+          "comedy",
+          "Science fiction"
+        ],
+        "answer": "comedy"
+      },
+      {
+        "id": "L12",
+        "type": "choice",
+        "prompt": "Bruce Lee: A Warrior’s Journey",
+        "options": [
+          "animated",
+          "Action adventure",
+          "documentary",
+          "biography",
+          "comedy",
+          "Science fiction"
+        ],
+        "answer": "documentary"
+      },
+      {
+        "id": "L13",
+        "type": "choice",
+        "prompt": "A Beautiful Mind",
+        "options": [
+          "animated",
+          "Action adventure",
+          "documentary",
+          "biography",
+          "comedy",
+          "Science fiction"
+        ],
+        "answer": "biography"
+      }
+    ]
+  },
+  {
+    "title": "Grammar · Conjunctions",
+    "questions": [
+      {
+        "id": "G1",
+        "type": "choice",
+        "prompt": "The weather is ................ hot nor cold.",
+        "options": [
+          "either",
+          "neither",
+          "both",
+          "not only"
+        ],
+        "answer": "neither"
+      },
+      {
+        "id": "G2",
+        "type": "choice",
+        "prompt": "She can speak ................ English and Spanish.",
+        "options": [
+          "either",
+          "neither",
+          "both",
+          "not only"
+        ],
+        "answer": "both"
+      },
+      {
+        "id": "G3",
+        "type": "choice",
+        "prompt": "He can have ................ tea or coffee.",
+        "options": [
+          "either",
+          "neither",
+          "both",
+          "not only"
+        ],
+        "answer": "either"
+      },
+      {
+        "id": "G4",
+        "type": "choice",
+        "prompt": "He is ................ poor but also unemployed.",
+        "options": [
+          "either",
+          "neither",
+          "both",
+          "not only"
+        ],
+        "answer": "not only"
+      },
+      {
+        "id": "G5",
+        "type": "choice",
+        "prompt": "I have got a house, ................ I haven't got a car.",
+        "options": [
+          "and",
+          "so",
+          "but",
+          "or"
+        ],
+        "answer": "but"
+      },
+      {
+        "id": "G6",
+        "type": "choice",
+        "prompt": "He can live in Dammam ................ AL-Khobar.",
+        "options": [
+          "and",
+          "so",
+          "or",
+          "yet"
+        ],
+        "answer": "or"
+      },
+      {
+        "id": "G7",
+        "type": "choice",
+        "prompt": "She has a brother ................ two sisters.",
+        "options": [
+          "and",
+          "so",
+          "but",
+          "yet"
+        ],
+        "answer": "and"
+      },
+      {
+        "id": "G8",
+        "type": "choice",
+        "prompt": "He was sick ................ he couldn't go to school.",
+        "options": [
+          "and",
+          "so",
+          "but",
+          "or"
+        ],
+        "answer": "so"
+      },
+      {
+        "id": "G9",
+        "type": "choice",
+        "prompt": "Hamad studied a lot ................ he didn't pass the exam.",
+        "options": [
+          "and",
+          "so",
+          "or",
+          "yet"
+        ],
+        "answer": "yet"
+      }
+    ]
+  },
+  {
+    "title": "Grammar · Frayer Model: Independent Clause",
+    "questions": [
+      {
+        "id": "F1",
+        "type": "text",
+        "prompt": "Definition of an independent clause"
+      },
+      {
+        "id": "F2",
+        "type": "text",
+        "prompt": "Characteristics of an independent clause"
+      },
+      {
+        "id": "F3",
+        "type": "text",
+        "prompt": "Examples of an independent clause"
+      },
+      {
+        "id": "F4",
+        "type": "text",
+        "prompt": "Non-examples of an independent clause"
+      }
+    ]
+  },
+  {
+    "title": "Conversation & Listening · Match Definitions",
+    "questions": [
+      {
+        "id": "V1",
+        "type": "choice",
+        "prompt": "altered",
+        "options": [
+          "unusual and attractive",
+          "lasting",
+          "changed",
+          "extremely important",
+          "imperfections"
+        ],
+        "answer": "changed"
+      },
+      {
+        "id": "V2",
+        "type": "choice",
+        "prompt": "crucial",
+        "options": [
+          "unusual and attractive",
+          "lasting",
+          "changed",
+          "extremely important",
+          "imperfections"
+        ],
+        "answer": "extremely important"
+      },
+      {
+        "id": "V3",
+        "type": "choice",
+        "prompt": "defects",
+        "options": [
+          "unusual and attractive",
+          "lasting",
+          "changed",
+          "extremely important",
+          "imperfections"
+        ],
+        "answer": "imperfections"
+      },
+      {
+        "id": "V4",
+        "type": "choice",
+        "prompt": "exotic",
+        "options": [
+          "unusual and attractive",
+          "lasting",
+          "changed",
+          "extremely important",
+          "imperfections"
+        ],
+        "answer": "unusual and attractive"
+      }
+    ]
+  },
+  {
+    "title": "Reading · Detective Film Formula",
+    "questions": [
+      {
+        "id": "R1",
+        "type": "text",
+        "prompt": "Formula element 1"
+      },
+      {
+        "id": "R2",
+        "type": "text",
+        "prompt": "Formula element 2"
+      },
+      {
+        "id": "R3",
+        "type": "text",
+        "prompt": "Formula element 3"
+      },
+      {
+        "id": "R4",
+        "type": "text",
+        "prompt": "Formula element 4"
+      },
+      {
+        "id": "R5",
+        "type": "text",
+        "prompt": "Formula element 5"
+      }
+    ]
+  },
+  {
+    "title": "Form, Meaning & Function · Comparisons",
+    "questions": [
+      {
+        "id": "C1",
+        "type": "choice",
+        "prompt": "English is ................ than French.",
+        "options": [
+          "easy",
+          "easier",
+          "easiest",
+          "more easy"
+        ],
+        "answer": "easier"
+      },
+      {
+        "id": "C2",
+        "type": "choice",
+        "prompt": "The Nile River is the ................ in the world.",
+        "options": [
+          "long",
+          "longer",
+          "longest",
+          "more long"
+        ],
+        "answer": "longest"
+      },
+      {
+        "id": "C3",
+        "type": "choice",
+        "prompt": "Bahrain is not as ................ as Saudi Arabia.",
+        "options": [
+          "big",
+          "bigger",
+          "biggest",
+          "biggest"
+        ],
+        "answer": "big"
+      },
+      {
+        "id": "C4",
+        "type": "choice",
+        "prompt": "She has the ................ prestigious job.",
+        "options": [
+          "more",
+          "most",
+          "fewer",
+          "as"
+        ],
+        "answer": "most"
+      },
+      {
+        "id": "C5",
+        "type": "choice",
+        "prompt": "Your company offer is the ................ attractive.",
+        "options": [
+          "less",
+          "least",
+          "more",
+          "fewer"
+        ],
+        "answer": "least"
+      },
+      {
+        "id": "C6",
+        "type": "choice",
+        "prompt": "Physics is ................ than Chemistry.",
+        "options": [
+          "harder",
+          "hard",
+          "hardest",
+          "more hard"
+        ],
+        "answer": "harder"
+      },
+      {
+        "id": "C7",
+        "type": "choice",
+        "prompt": "Mount Everest is the ................ mountain in the world.",
+        "options": [
+          "tallest",
+          "taller",
+          "most tall",
+          "more tall"
+        ],
+        "answer": "tallest"
+      },
+      {
+        "id": "C8",
+        "type": "choice",
+        "prompt": "Oman is not as ................ as the UAE.",
+        "options": [
+          "large",
+          "larger",
+          "largest",
+          "the largest"
+        ],
+        "answer": "large"
+      }
+    ]
+  },
+  {
+    "title": "Form, Meaning & Function · Correct the Mistakes",
+    "questions": [
+      {
+        "id": "E1",
+        "type": "text",
+        "prompt": "I think this movie is the best than the one we saw last week."
+      },
+      {
+        "id": "E2",
+        "type": "text",
+        "prompt": "The faster you finish, the soon you can relax."
+      },
+      {
+        "id": "E3",
+        "type": "text",
+        "prompt": "Platinum is more rare than gold."
+      }
+    ]
+  },
+  {
+    "title": "Form, Meaning & Function · Do as Shown",
+    "questions": [
+      {
+        "id": "W1",
+        "type": "text",
+        "prompt": "Lamia is tall. Jinan is tall. (Join using as ... as)"
+      },
+      {
+        "id": "W2",
+        "type": "text",
+        "prompt": "Snakes / dangerous / cats. (Make a comparison)"
+      },
+      {
+        "id": "W3",
+        "type": "text",
+        "prompt": "not / as / tiger / elephant / big / is / an / as / a (Re-arrange)"
+      }
+    ]
+  }
+]
